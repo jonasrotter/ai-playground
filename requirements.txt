@@ -1,0 +1,6 @@
+openai 
+pydantic 
+python-dotenv 
+rich 
+persist-cache
+ipykernel
