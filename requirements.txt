@@ -18,3 +18,5 @@ mpmath
 tabulate
 requests
 logging
+asyncio 
+nest_asyncio
